@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "id": "8da9",
+      "name": "Omar Stiedemann Sr."
+    },
+    {
+      "id": "c067",
+      "name": "Ms. Brielle Cummerata"
+    }
+  ],
+  "albums": [
+    {
+      "id": "7ed9",
+      "name": "Impedit Patior",
+      "userId": null
+    },
+    {
+      "id": "8651",
+      "name": "Spero Thalassinus",
+      "userId": null
+    },
+    {
+      "id": "6225",
+      "name": "Audio Tondeo Vae",
+      "userId": null
+    },
+    {
+      "id": "1100",
+      "name": "Volaticus Arceo Nobis",
+      "userId": null
+    },
+    {
+      "id": "9946",
+      "name": "Conduco Complectus Decerno",
+      "userId": null
+    },
+    {
+      "id": "435d",
+      "name": "Auxilium",
+      "userId": null
+    },
+    {
+      "id": "b263",
+      "name": "Dens Velut",
+      "userId": "8da9"
+    },
+    {
+      "id": "df7a",
+      "name": "Video Creptio",
+      "userId": "c067"
+    },
+    {
+      "id": "4e74",
+      "name": "Contigo Amissio Exercitationem",
+      "userId": "c067"
+    },
+    {
+      "id": "9255",
+      "name": "Suffragium Maiores Adfectus",
+      "userId": "c067"
+    },
+    {
+      "id": "e845",
+      "name": "Trepide",
+      "userId": "c067"
+    },
+    {
+      "id": "b5a1",
+      "name": "Supellex Aspernatur Vae",
+      "userId": "c067"
+    },
+    {
+      "id": "e03c",
+      "name": "Creo Appono",
+      "userId": "c067"
+    },
+    {
+      "id": "c1a2",
+      "name": "Commodi Aranea Copia",
+      "userId": "c067"
+    },
+    {
+      "id": "eab7",
+      "name": "Admiratio Occaecati",
+      "userId": "c067"
+    },
+    {
+      "id": "cd7f",
+      "name": "Truculenter Statua Conatus",
+      "userId": "c067"
+    }
+  ],
+  "photos": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
